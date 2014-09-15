@@ -1,3 +1,3 @@
 node 'client' {
-  include puppet
+  include puppet 
 }
